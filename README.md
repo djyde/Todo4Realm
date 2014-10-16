@@ -4,7 +4,7 @@ Just a very simple todo app use [Realm-Java](http://realm.io/docs/java/0.71.0/)
 
 Screenshot
 ====
-!()[http://blogscdn.qiniudn.com/githubtodo4realm.jpg]
+![](http://blogscdn.qiniudn.com/github1.pic.jpg)
 
 Prerequisites
 ====
